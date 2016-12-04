@@ -73,11 +73,11 @@
     <distributionManagement>
       <repository>
          <id>nexus</id>
-         <url>http://nexus-cicd.h.svc.tite.lan/content/repositories/releases</url>
+         <url>http://nexus-poclab.h.svc.tite.lan/content/repositories/releases</url>
       </repository>
        <snapshotRepository>
           <id>nexus</id>
-          <url>http://nexus-cicd.h.svc.tite.lan/content/repositories/snapshots</url>
+          <url>http://nexus-poclab.h.svc.tite.lan/content/repositories/snapshots</url>
        </snapshotRepository>
     </distributionManagement>
 
